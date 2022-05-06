@@ -3,16 +3,15 @@
 ## about:
 This project was developed for the purpose of stacking image layers and viewing their combinations. 
 
-PIL
+PIL: https://pillow.readthedocs.io/en/stable/
 
-PIL file formats
+Supported file formats: https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html
 
+PIL/pillow installation: https://pillow.readthedocs.io/en/stable/installation.html
 
 ## how to use:
 
-Require folder structure for use:
-
-
+Required folder structure for use:
 
 <pre>
 📁 project directory
