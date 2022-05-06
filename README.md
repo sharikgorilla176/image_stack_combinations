@@ -11,8 +11,9 @@ PIL/pillow installation: https://pillow.readthedocs.io/en/stable/installation.ht
 
 ## how to use:
 
-Required folder structure for use:
+The use of this program requires a particlar folder structure shown below
 
+Example:
 <pre>
 📁 project directory
  ├─📁 layer_0
@@ -30,7 +31,11 @@ Required folder structure for use:
  └─📁Output
     ├─🖼️ output1.png
     ├─🖼️ output2.png
-    └─🖼️ output.png
+    └─🖼️ output3.png
+        .
+        .
+        .
+
 </pre>
 
 
